@@ -1,7 +1,7 @@
 {
-  "version": "0.1.3",
-  "releaseNotes": "Release 0.1.3",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking/releases/tag/v0.1.3",
+  "version": "0.1.4",
+  "releaseNotes": "Added user page.\r\nSome tweaks on the weekly.",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking/releases/tag/v0.1.4",
   "installerDownloadUrl": null,
-  "publishedAt": "2026-06-27T15:47:23.951Z"
+  "publishedAt": "2026-06-27T16:27:53.595Z"
 }
