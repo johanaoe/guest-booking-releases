@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
-  "releaseNotes": "Value of Service: configurable email templates, Outlook Classic compose with PDF attached, improved default-mail flow, and standard PDF filenames. VoS heading uses your property name. Fixed total keeps party/person-night breakdown but hides rates and amounts.",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking/releases/tag/v0.2.0",
+  "version": "0.2.1",
+  "releaseNotes": "Changes to the update module",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking/releases/tag/v0.2.1",
   "installerDownloadUrl": null,
-  "publishedAt": "2026-07-01T08:31:43.430Z"
+  "publishedAt": "2026-07-01T09:02:43.450Z"
 }
