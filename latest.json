@@ -1,7 +1,8 @@
 {
-  "version": "0.2.2",
-  "releaseNotes": "Update to updates",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking/releases/tag/v0.2.2",
+  "version": "0.2.3",
+  "releaseNotes": "Update revamp",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.2.3",
   "installerDownloadUrl": null,
-  "publishedAt": "2026-07-01T09:18:08.208Z"
+  "sourceDownloadUrl": null,
+  "publishedAt": "2026-07-01T10:09:17.034Z"
 }
