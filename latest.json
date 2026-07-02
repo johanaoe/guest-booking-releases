@@ -1,8 +1,8 @@
 {
-  "version": "0.2.10",
-  "releaseNotes": "0.2.10 — Fix public update channel uploads",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.2.10",
+  "version": "0.2.11",
+  "releaseNotes": "Updates\r\n- In-app updates now run through a Node-based orchestrator instead of a nested PowerShell chain, so they work on PCs where PowerShell scripts are blocked by policy.\r\n- Update log is reset at the start of each run, so old failures are no longer shown as current errors.\r\n- Update status ignores log entries older than 45 minutes.\r\n- Log timestamps now use local time consistently.\r\n\r\nStable PC / startup (from 0.2.9)\r\n- Start Guest Booking with no command window — use Start Guest Booking.vbs.\r\n- Fixed blank console window staying open in the background.\r\n\r\nVendor (dev PC)\r\n- Publishing to the public update channel now uploads source zips correctly (uploads.github.com fix from 0.2.10).\r\n\r\nCustomer PCs on 0.2.9 or 0.2.10: use Settings → About → Apply update after this release is published, or run the manual release.ps1 command once if needed.",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.2.11",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.2.10/GuestBooking-source-0.2.10.zip",
-  "publishedAt": "2026-07-02T08:48:45.717Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.2.11/GuestBooking-source-0.2.11.zip",
+  "publishedAt": "2026-07-02T09:14:14.410Z"
 }
