@@ -1,8 +1,8 @@
 {
-  "version": "0.2.12",
-  "releaseNotes": "Change some text and test",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.2.12",
+  "version": "0.2.13",
+  "releaseNotes": "New next updater",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.2.13",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.2.12/GuestBooking-source-0.2.12.zip",
-  "publishedAt": "2026-07-02T09:17:38.744Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.2.13/GuestBooking-source-0.2.13.zip",
+  "publishedAt": "2026-07-02T09:38:59.266Z"
 }
