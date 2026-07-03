@@ -1,8 +1,8 @@
 {
-  "version": "0.2.14",
-  "releaseNotes": "Release 0.2.14",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.2.14",
+  "version": "0.3.0",
+  "releaseNotes": "Guest Booking 0.3.0\r\nConferences & meetings\r\n\r\nConferences & Meetings is now the single place for conference events and meeting room bookings.\r\nWhen creating or editing a conference, choose which meeting rooms to reserve on the same form.\r\nAll day or start/end times for room bookings on single-day events; multi-day events stay all-day.\r\nConference appears as a real meeting room in Settings → Rooms (seeded on upgrade; can be deleted like other rooms).\r\nCalendar views show meeting room bookings under the conference color.\r\nOld /meeting-rooms URLs redirect to Conferences & Meetings.\r\nUsers & access\r\n\r\nCustom roles — create your own roles with per-area access instead of fixed presets (Manager, Front desk, etc.).\r\nSettings access is a separate flag on a role (full admin).\r\nRedesigned Settings → Users with avatars and clearer role management.\r\nExisting users are migrated automatically; legacy meeting_rooms permission maps to Conference.\r\nUpdates\r\n\r\nIn-app updates stay on the same page and reload in place when finished.\r\nProgress is shown in the app (no separate PowerShell window).\r\nOther\r\n\r\nConference day-guest counts still supported on the conference form.\r\nMeeting-only color removed from General settings; meeting bookings use the conference color.\r\nUpgrade notes (for admins)\r\nAfter updating, review Settings → Users → Roles and adjust permissions if needed.\r\nTrain staff: meeting room booking is done from Conferences & Meetings, not a separate menu.\r\nIf you use timed room bookings, set start/end dates to the same day to see time fields.",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.3.0",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.2.14/GuestBooking-source-0.2.14.zip",
-  "publishedAt": "2026-07-02T13:44:04.383Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.3.0/GuestBooking-source-0.3.0.zip",
+  "publishedAt": "2026-07-03T08:53:20.412Z"
 }
