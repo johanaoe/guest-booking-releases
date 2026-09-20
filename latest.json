@@ -1,8 +1,8 @@
 {
-  "version": "0.4.1",
-  "releaseNotes": "Search\r\nBookings\r\n\r\nLive search in the top toolbar (left of action buttons)\r\nFilters as you type across guest name, phone, rooms, dates, booking #, and more\r\nSearches all sections: unassigned, inquiries, current/upcoming, past, cancelled, and recently deleted\r\nAuto-expands collapsed sections when they contain matches\r\nContacts\r\n\r\nSame live search in the toolbar (left of All / Contacts only / Staff only)\r\nMatches name, email, phone, family members, notes, and type\r\nAlso filters deleted contacts and expands that section when needed\r\nMeal plan — kitchen duty\r\nOptional Cook per meal (Breakfast, Lunch, Dinner, etc.) — never required\r\nWhen adding a recipe (drag-and-drop or from the recipe page), pick the meal and optionally enter who is cooking on the same row\r\nCook appears inline on the meal row in the plan (e.g. Breakfast · 8 adults · Cook: Maria)\r\nCook can still be edited inline on the plan after assignment\r\n+ Cook assigns kitchen duty without adding a recipe\r\nCook is shown on the Weekly and Daily views under each meal\r\nFixes\r\nMeal plan drag-and-drop — recipes can be dragged onto a day again (browser compatibility fix)\r\nContacts page build — fixed an error caused by client components importing server-only modules",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.4.1",
+  "version": "0.4.2",
+  "releaseNotes": "Release 0.4.2",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.4.2",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.4.1/GuestBooking-source-0.4.1.zip",
-  "publishedAt": "2026-07-04T15:58:58.860Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.4.2/GuestBooking-source-0.4.2.zip",
+  "publishedAt": "2026-09-20T14:48:15.258Z"
 }
