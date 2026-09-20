@@ -1,8 +1,8 @@
 {
   "version": "0.4.2",
-  "releaseNotes": "Bookings\\n\\nSearch contact by email or name when creating or editing a booking\\nRemove family members on booking edit (× button per row)\\n\"Update contact record\" now syncs household changes including removals\\nFix: changing Person type (male/female/child) works for every family member, not just the first\\n\\nGuest Inbox\\n\\nNew Guest Inbox for synced guest email (IMAP)\\nReply, compose, search, folders, and attachments\\nMail account settings under Settings → Mail\\n\\nImport\\n\\nOutlook bridge removed; streamlined import draft flow\\n",
+  "releaseNotes": "Bookings\n\nSearch contact by email or name when creating or editing a booking\nRemove family members on booking edit (× button per row)\n\"Update contact record\" now syncs household changes including removals\nFix: changing Person type (male/female/child) works for every family member, not just the first\n\nGuest Inbox\n\nNew Guest Inbox for synced guest email (IMAP)\nReply, compose, search, folders, and attachments\nMail account settings under Settings → Mail\n\nImport\n\nOutlook bridge removed; streamlined import draft flow\n",
   "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.4.2",
   "installerDownloadUrl": null,
   "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.4.2/GuestBooking-source-0.4.2.zip",
-  "publishedAt": "2026-09-20T14:48:54.303Z"
+  "publishedAt": "2026-09-20T14:49:17.718Z"
 }
