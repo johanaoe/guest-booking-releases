@@ -1,8 +1,8 @@
 {
-  "version": "0.4.2",
-  "releaseNotes": "Bookings\n\nSearch contact by email or name when creating or editing a booking\nRemove family members on booking edit (× button per row)\n\"Update contact record\" now syncs household changes including removals\nFix: changing Person type (male/female/child) works for every family member, not just the first\n\nGuest Inbox\n\nNew Guest Inbox for synced guest email (IMAP)\nReply, compose, search, folders, and attachments\nMail account settings under Settings → Mail\n\nImport\n\nOutlook bridge removed; streamlined import draft flow\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.4.2",
+  "version": "0.4.3",
+  "releaseNotes": "﻿## Bookings\n- Four-pane booking form: guest & family | arrival/departure | rooms | remarks & allergies\n- Click rooms in availability to reserve one or two rooms for the same stay\n- Assign people to each room when two rooms are reserved\n\n## Conferences\n- Save event works reliably and shows a saved confirmation\n- Family parties stay grouped; Edit party updates travel and all members together\n- Delete participants from the room view\n- More compact participants room board\n\n## Fixes & polish\n- Settings and forms show clearer save feedback\n- Recovery code / forgot-password flow (admin recovery)\n- Favicon / app icons\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.4.3",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.4.2/GuestBooking-source-0.4.2.zip",
-  "publishedAt": "2026-09-20T14:49:17.718Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.4.3/GuestBooking-source-0.4.3.zip",
+  "publishedAt": "2026-09-21T19:19:47.296Z"
 }
