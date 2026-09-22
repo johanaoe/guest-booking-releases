@@ -1,8 +1,8 @@
 {
-  "version": "0.4.3",
-  "releaseNotes": "## Bookings\n- Four-pane booking form: guest & family | arrival/departure | rooms | remarks & allergies\n- Click rooms in availability to reserve one or two rooms for the same stay\n- Assign people to each room when two rooms are reserved\n\n## Conferences\n- Save event works reliably and shows a saved confirmation\n- Family parties stay grouped; Edit party updates travel and all members together\n- Delete participants from the room view\n- More compact participants room board\n\n## Fixes & polish\n- Settings and forms show clearer save feedback\n- Recovery code / forgot-password flow (admin recovery)\n- Favicon / app icons\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.4.3",
+  "version": "0.4.4",
+  "releaseNotes": "﻿## Platform\n- Upgraded Next.js to 16.3.5 (security patch)\n\n## Notes\n- No user-facing feature changes in this release\n- Apply via Settings → About → Check for updates\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.4.4",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.4.3/GuestBooking-source-0.4.3.zip",
-  "publishedAt": "2026-09-21T19:20:53.690Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.4.4/GuestBooking-source-0.4.4.zip",
+  "publishedAt": "2026-09-22T07:25:26.238Z"
 }
