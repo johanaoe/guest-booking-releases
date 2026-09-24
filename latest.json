@@ -1,8 +1,8 @@
 {
-  "version": "0.6.0",
-  "releaseNotes": "## Conferences\\n- Import registration sheet (CSV/Excel) into conference participants, with day vs overnight estimated from notes and dates\\n- Meal planner: per-day times can be edited reliably; shows 2-meal / 3-meal summary (Breakfast, Lunch, Dinner — coffee breaks excluded)\\n- Monthly hover on conference row includes main-meal summary\\n- Stay-only days (before/after meeting days) use guest colors from people in the room (e.g. single male blue, not family green)\\n\\n## Fixes\\n- Conference meal day labels no longer cause hydration mismatches\\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.0",
+  "version": "0.6.1",
+  "releaseNotes": "﻿## Weekly\n\n- Conference overnight rooms now show arrival and departure details from each participant (time, mode, city, airline/flight), with CLEAN when the room empties\n- Same travel lines on the mobile weekly view\n\n## Rooms\n\n- Per-room option: **Only show on weekly overview when occupied** (Settings → Rooms) for spare beds like the TV room\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.1",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.0/GuestBooking-source-0.6.0.zip",
-  "publishedAt": "2026-09-24T09:48:22.791Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.1/GuestBooking-source-0.6.1.zip",
+  "publishedAt": "2026-09-24T11:10:20.779Z"
 }
