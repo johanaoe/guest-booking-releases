@@ -1,8 +1,8 @@
 {
-  "version": "0.6.1",
-  "releaseNotes": "﻿## Weekly\n\n- Conference overnight rooms now show arrival and departure details from each participant (time, mode, city, airline/flight), with CLEAN when the room empties\n- Same travel lines on the mobile weekly view\n\n## Rooms\n\n- Per-room option: **Only show on weekly overview when occupied** (Settings → Rooms) for spare beds like the TV room\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.1",
+  "version": "0.6.2",
+  "releaseNotes": "## Mail\n\n- Settings → Mail setup is simpler: enter email and password; IMAP/SMTP are filled automatically for common providers (mailbox.org, Gmail, Outlook, iCloud, Yahoo)\n- Advanced server/folder options and reply snippets are collapsed until needed\n\n## Value of Service\n\n- Conference day guests are included for meals and conference fees (totals by category; no bed charge)",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.2",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.1/GuestBooking-source-0.6.1.zip",
-  "publishedAt": "2026-09-24T11:10:20.779Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.2/GuestBooking-source-0.6.2.zip",
+  "publishedAt": "2026-09-24T11:29:34.501Z"
 }
