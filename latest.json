@@ -1,8 +1,8 @@
 {
-  "version": "0.4.4",
-  "releaseNotes": "﻿## Platform\n- Upgraded Next.js to 16.3.5 (security patch)\n\n## Notes\n- No user-facing feature changes in this release\n- Apply via Settings → About → Check for updates\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.4.4",
+  "version": "0.5.0",
+  "releaseNotes": "﻿## Guest Inbox\n- Two-pane thread workspace with booking link, availability, and reply stages\n- Availability-aware reply snippets and clearer compose flow\n\n## Bookings & Conferences\n- Separate conference arrival/departure stay from meeting days\n- Calendar uses normal colors on stay-only days; meeting days stay conference-colored\n- Day-guest counts on conference rows show as \"N day\"\n- Conference fee (Value of Service) charged only on meeting days\n\n## Settings\n- Custom airlines under Settings → Airlines\n- Removing a mailbox clears connection fields to blank (no default hosts)\n\n## Fixes\n- Safer database migration when adding conference date columns during build\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.5.0",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.4.4/GuestBooking-source-0.4.4.zip",
-  "publishedAt": "2026-09-22T07:25:26.238Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.5.0/GuestBooking-source-0.5.0.zip",
+  "publishedAt": "2026-09-24T07:24:07.083Z"
 }
