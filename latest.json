@@ -1,8 +1,8 @@
 {
-  "version": "0.6.3",
-  "releaseNotes": "﻿## Conferences\n\n- Printable one-page staff summary from conference overview (people, meals by day, dietary notes)\n- Meal counts show clear \"N ppl\" totals with adults/children breakdown\n\n## Bookings\n\n- After saving a booking, return to the monthly calendar for that stay month\n- Safer concurrent edits: warn when another user changed the booking before your save\n\n## Backups\n\n- Safer restore while the app is running (validate, safety copy, atomic replace, rollback)\n\n## Guest Inbox\n\n- Simplified email sidebar (removed Guest & booking link panel)\n\n## Fixes\n\n- Room conflict and staff-plan conflict handling improvements\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.3",
+  "version": "0.6.4",
+  "releaseNotes": "﻿## Conferences\n\n- Weekly and monthly now show participant arrival/departure travel on the correct days\n- Early arrivals and late departures outside the conference booking stay are included\n- Monthly tooltips include travel dates and flight details for overnight guests\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.4",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.3/GuestBooking-source-0.6.3.zip",
-  "publishedAt": "2026-09-28T08:22:32.952Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.4/GuestBooking-source-0.6.4.zip",
+  "publishedAt": "2026-09-28T08:33:53.021Z"
 }
