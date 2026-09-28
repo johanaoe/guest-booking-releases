@@ -1,8 +1,8 @@
 {
-  "version": "0.6.5",
-  "releaseNotes": "﻿## Updates\n\n- Client updates no longer fail the production build with \"duplicate column name: revision\" when Next.js workers migrate the database in parallel\n\n## Reports\n\n- Corrupt monthly report data is no longer treated as a blank report; the saved data is left unchanged and an error is shown instead\n\n## Also in 0.6.4 (if you skipped it)\n\n- Weekly and monthly show participant arrival/departure travel on the correct days, including early arrivals and late departures\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.5",
+  "version": "0.6.6",
+  "releaseNotes": "﻿## Weekly\n\n- Meals row shows one total headcount that includes conference day guests\n- Meeting room conference cells show day-guest count for that day\n\n## Conferences\n\n- Add and edit Notes on the conference overview (also on the event edit form)\n- Printed summary section renamed from Staff notes to Notes\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.6",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.5/GuestBooking-source-0.6.5.zip",
-  "publishedAt": "2026-09-28T08:51:16.621Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.6/GuestBooking-source-0.6.6.zip",
+  "publishedAt": "2026-09-28T09:03:00.582Z"
 }
