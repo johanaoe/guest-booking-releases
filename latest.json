@@ -1,8 +1,8 @@
 {
-  "version": "0.6.2",
-  "releaseNotes": "## Mail\n\n- Settings → Mail setup is simpler: enter email and password; IMAP/SMTP are filled automatically for common providers (mailbox.org, Gmail, Outlook, iCloud, Yahoo)\n- Advanced server/folder options and reply snippets are collapsed until needed\n\n## Value of Service\n\n- Conference day guests are included for meals and conference fees (totals by category; no bed charge)",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.2",
+  "version": "0.6.3",
+  "releaseNotes": "﻿## Conferences\n\n- Printable one-page staff summary from conference overview (people, meals by day, dietary notes)\n- Meal counts show clear \"N ppl\" totals with adults/children breakdown\n\n## Bookings\n\n- After saving a booking, return to the monthly calendar for that stay month\n- Safer concurrent edits: warn when another user changed the booking before your save\n\n## Backups\n\n- Safer restore while the app is running (validate, safety copy, atomic replace, rollback)\n\n## Guest Inbox\n\n- Simplified email sidebar (removed Guest & booking link panel)\n\n## Fixes\n\n- Room conflict and staff-plan conflict handling improvements\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.3",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.2/GuestBooking-source-0.6.2.zip",
-  "publishedAt": "2026-09-24T11:29:34.501Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.3/GuestBooking-source-0.6.3.zip",
+  "publishedAt": "2026-09-28T08:22:32.952Z"
 }
