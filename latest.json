@@ -1,8 +1,8 @@
 {
-  "version": "0.6.9",
-  "releaseNotes": "## Fixes\r\n\r\n- Client updates no longer leave deleted source files behind (those leftovers caused TypeScript build failures after 0.6.8)\r\n- Build clears known orphan files before compiling so stuck installs can recover\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.9",
+  "version": "0.6.10",
+  "releaseNotes": "## Fixes\r\n\r\n- Remove more leftover update files (outlook bridge API and related) that blocked the 0.6.9 client build\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.10",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.9/GuestBooking-source-0.6.9.zip",
-  "publishedAt": "2026-09-29T06:10:27.263Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.10/GuestBooking-source-0.6.10.zip",
+  "publishedAt": "2026-09-29T06:16:43.316Z"
 }
