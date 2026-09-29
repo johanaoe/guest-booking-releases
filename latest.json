@@ -1,8 +1,8 @@
 {
-  "version": "0.6.8",
-  "releaseNotes": "﻿## Conferences & meals\n\n- Day guests are included in meal headcounts on conference overview, kitchen/weekly meals, and statistics\n- Undated day guests use the full stay for meals (same window as overnight guests)\n- Conference overview shows an on-screen Meals section with overnight + day guest counts\n\n## Bookings & rooms\n\n- Sleeping-room bed capacity is enforced for overnight guests (day guests do not use beds)\n\n## Security & access\n\n- Dashboard areas respect permission areas for read access\n- Permanent guest delete removes linked mail attachments after anonymizing bookings\n- Login throttle and safer URL fetching for recipe import\n\n## Fixes\n\n- Shared meal attendance rules so day guests are not dropped from counts\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.8",
+  "version": "0.6.9",
+  "releaseNotes": "## Fixes\r\n\r\n- Client updates no longer leave deleted source files behind (those leftovers caused TypeScript build failures after 0.6.8)\r\n- Build clears known orphan files before compiling so stuck installs can recover\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.9",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.8/GuestBooking-source-0.6.8.zip",
-  "publishedAt": "2026-09-29T06:00:38.832Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.9/GuestBooking-source-0.6.9.zip",
+  "publishedAt": "2026-09-29T06:10:27.263Z"
 }
