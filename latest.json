@@ -1,8 +1,8 @@
 {
-  "version": "0.6.13",
-  "releaseNotes": "## Meals\n- Meal plan print denser 3-column layout (Cook / dish) and scale-to-fit so a full week lands on one A4\n- Guest counts on meal plan print and grid for notes-only and cook-only slots\n- Recipe categories: reorder with up/down arrows, Sort A-Z, alphabetical default\n- Paprika library import shows a progress bar while recipes import\n\n## Fixes\n- Meal plan print scale uses Chromium zoom so pagination stays on a single page\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.13",
+  "version": "0.6.14",
+  "releaseNotes": "## Meals\n- Meal plan print redesigned as an adaptive A4 fridge sheet: large readable type that expands on light weeks and compacts on busy weeks\n- Always one A4 portrait page without shrinking the whole layout with CSS scale\n- Compact guest counts on print; day headings like MONDAY 5 OCT\n\n## Fixes\n- Meal plan print no longer leaves a blank half-page or unreadable tiny text\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.14",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.13/GuestBooking-source-0.6.13.zip",
-  "publishedAt": "2026-09-30T10:05:52.747Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.14/GuestBooking-source-0.6.14.zip",
+  "publishedAt": "2026-09-30T10:27:55.571Z"
 }
