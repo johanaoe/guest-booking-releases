@@ -1,8 +1,8 @@
 {
-  "version": "0.6.12",
-  "releaseNotes": "﻿## Meals\n- Print the meal plan as a compact A4 portrait fridge sheet (dishes, cooks, headcounts, allergies, notes), scaled to fit one page\n- Meal plan week settings remain under Meals → Settings (independent of the weekly schedule)\n\n## Conferences & bookings\n- Room conflicts no longer wipe the form — your details stay filled in\n- When a room is already reserved, you can **Save with shared room** so both bookings keep that room\n- Conference arrival/departure follow conference start/end until you change them manually\n\n## Fixes\n- Conference and booking save errors stay on the same page instead of redirecting away\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.12",
+  "version": "0.6.13",
+  "releaseNotes": "﻿## Meals\n- Meal plan print denser 3-column layout (Cook / dish) and scale-to-fit so a full week lands on one A4\n- Guest counts on meal plan print and grid for notes-only and cook-only slots\n- Recipe categories: reorder with ↑/↓, Sort A–Z, alphabetical default\n- Paprika library import shows a progress bar while recipes import\n\n## Fixes\n- Meal plan print scale uses Chromium zoom so pagination stays on a single page\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.13",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.12/GuestBooking-source-0.6.12.zip",
-  "publishedAt": "2026-09-30T09:44:22.216Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.13/GuestBooking-source-0.6.13.zip",
+  "publishedAt": "2026-09-30T10:04:47.661Z"
 }
