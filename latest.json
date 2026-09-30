@@ -1,8 +1,8 @@
 {
-  "version": "0.6.14",
-  "releaseNotes": "## Meals\n- Meal plan print redesigned as an adaptive A4 fridge sheet: large readable type that expands on light weeks and compacts on busy weeks\n- Always one A4 portrait page without shrinking the whole layout with CSS scale\n- Compact guest counts on print; day headings like MONDAY 5 OCT\n\n## Fixes\n- Meal plan print no longer leaves a blank half-page or unreadable tiny text\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.14",
+  "version": "0.6.15",
+  "releaseNotes": "## Meals\n- Meal plan print allergies footer lists each person with dietary needs and stay dates\n- Removed schedule/day notes from the meal plan print (meals-only fridge sheet)\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.15",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.14/GuestBooking-source-0.6.14.zip",
-  "publishedAt": "2026-09-30T10:27:55.571Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.15/GuestBooking-source-0.6.15.zip",
+  "publishedAt": "2026-09-30T12:33:56.865Z"
 }
