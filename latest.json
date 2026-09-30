@@ -1,8 +1,8 @@
 {
-  "version": "0.6.10",
-  "releaseNotes": "## Fixes\r\n\r\n- Remove more leftover update files (outlook bridge API and related) that blocked the 0.6.9 client build\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.10",
+  "version": "0.6.11",
+  "releaseNotes": "﻿## Meals\n- Meal plan week range is now set under Meals → Settings (start day + days shown), separate from the weekly room schedule\n- Prev/Next on the meal plan always moves one calendar week so Sunday–Sunday stays Sunday–Sunday (no more Mon–Mon drift)\n- + Cook lets you fill cooks for every meal and save once\n\n## Conferences & calendar\n- Guest rooms held for a conference without overnight participants show grey (\"Room held\") on arrival/departure days instead of blank family green\n- Conference guest-room selection lives in Room availability (book all / clear); separate room checklist removed\n\n## Inbox\n- Reply composer sits at the top of the email thread\n\n## Fixes\n- Conference room stay conflict checks cover room-availability selection more reliably\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.11",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.10/GuestBooking-source-0.6.10.zip",
-  "publishedAt": "2026-09-29T06:16:43.316Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.11/GuestBooking-source-0.6.11.zip",
+  "publishedAt": "2026-09-30T09:25:54.802Z"
 }
