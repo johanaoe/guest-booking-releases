@@ -1,8 +1,8 @@
 {
-  "version": "0.6.16",
-  "releaseNotes": "## Bookings / Conference\n- Conference VoS shows category totals (with manual lines) instead of per-person meal rows\n- New Guest breakdown page lists each person's meal, fee, and bed charges\n\n## Weekly\n- Meals row shows headcounts only (no cook names or menu dishes)\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.6.16",
+  "version": "0.7.0",
+  "releaseNotes": "## Backup & disaster recovery\n- First-run **Recover from backup** wizard (upload encrypted .enc, enter recovery key, validate, restore)\n- Large recovery uploads via dedicated API (up to 200 MB)\n- Windows/Next.js safe restore: when the live database is locked, restore defers until restart and applies on startup\n- INITIAL_ADMIN_SEED must be set explicitly; username/password alone no longer auto-seed an empty install\n- Setup gate: empty installs reach /setup and /setup/recover without a session\n\n## Value of Service\n- Conference VoS summary total can be entered directly; clearer empty fields and print layout\n\n## Docs\n- BACKUP.md updated for Windows restart recovery and upload limits\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.7.0",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.6.16/GuestBooking-source-0.6.16.zip",
-  "publishedAt": "2026-09-30T13:16:43.818Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.7.0/GuestBooking-source-0.7.0.zip",
+  "publishedAt": "2026-10-01T20:42:13.351Z"
 }
