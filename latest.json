@@ -1,8 +1,8 @@
 {
-  "version": "0.8.0",
-  "releaseNotes": "﻿## Updates\n- Safer in-app updates: before changing the app, Guest Booking now keeps a last-known-good copy so a failed update can restore the previous working version automatically\n- Update success requires a real health check (`/api/health`), not just the server starting\n- Pre-update database safety copy remains mandatory; if the new version may have touched the database, rollback restores the pre-update copy safely\n\n## Bookings\n- Inquiry confirmation and multi-room booking improvements\n- Monthly conference tooltip/notes polish\n- Room capacity and availability refinements\n\n## Fixes\n- Update recovery no longer races a live updater and incorrectly rolls back a successful install\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.8.0",
+  "version": "0.8.1",
+  "releaseNotes": "## Weekly print\n- Weekly overview now prints on a single A4 landscape page at 100% scale\n- Notes, Meals, and Allergies stay on the sheet (empty cells still appear)\n- Conference row prints only when there is a meeting that week\n- Occupied-only room visibility is unchanged; print height comes from the rooms that actually print\n- Family cells show the names assigned to that room, not the whole party\n- Meeting cells no longer show “All day”\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.8.1",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.8.0/GuestBooking-source-0.8.0.zip",
-  "publishedAt": "2026-10-02T09:57:25.573Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.8.1/GuestBooking-source-0.8.1.zip",
+  "publishedAt": "2026-10-02T13:44:33.203Z"
 }
