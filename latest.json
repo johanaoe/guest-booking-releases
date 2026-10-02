@@ -1,8 +1,8 @@
 {
-  "version": "0.7.1",
-  "releaseNotes": "## Fixes\n- In-app update to 0.7.0 could fail typecheck when an older Settings → Backups page was left beside the new automatic-backup panel\n- Automatic backup panel now tolerates that partial update and loads settings itself when needed\n- Zip updates force-overwrite destination source files so stale dashboard pages are replaced reliably\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.7.1",
+  "version": "0.8.0",
+  "releaseNotes": "﻿## Updates\n- Safer in-app updates: before changing the app, Guest Booking now keeps a last-known-good copy so a failed update can restore the previous working version automatically\n- Update success requires a real health check (`/api/health`), not just the server starting\n- Pre-update database safety copy remains mandatory; if the new version may have touched the database, rollback restores the pre-update copy safely\n\n## Bookings\n- Inquiry confirmation and multi-room booking improvements\n- Monthly conference tooltip/notes polish\n- Room capacity and availability refinements\n\n## Fixes\n- Update recovery no longer races a live updater and incorrectly rolls back a successful install\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.8.0",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.7.1/GuestBooking-source-0.7.1.zip",
-  "publishedAt": "2026-10-02T04:33:11.947Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.8.0/GuestBooking-source-0.8.0.zip",
+  "publishedAt": "2026-10-02T09:57:25.573Z"
 }
