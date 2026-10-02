@@ -1,36 +1,8 @@
 {
-    "version":  "0.8.2",
-    "sourceDownloadUrl":  "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.8.2/GuestBooking-source-0.8.2.zip",
-    "releaseNotes":  {
-                         "value":  "## Fixes\n- In-app updates no longer fail typecheck because of a preserved previous build under `data/update-safety`\n\n## Weekly print\n- Weekly overview prints on a single A4 landscape page at 100% scale\n- Notes, Meals, and Allergies stay on the sheet (empty cells still appear)\n- Conference row prints only when there is a meeting that week\n- Occupied-only room visibility is unchanged; print height comes from the rooms that actually print\n- Family cells show the names assigned to that room, not the whole party\n- Meeting cells no longer show â€œAll dayâ€\n",
-                         "PSPath":  "C:\\Users\\johan\\Documents\\Codeprograms\\dist\\release-notes-0.8.2.md",
-                         "PSParentPath":  "C:\\Users\\johan\\Documents\\Codeprograms\\dist",
-                         "PSChildName":  "release-notes-0.8.2.md",
-                         "PSDrive":  {
-                                         "CurrentLocation":  "Users\\johan\\Documents\\Codeprograms",
-                                         "Name":  "C",
-                                         "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
-                                         "Root":  "C:\\",
-                                         "Description":  "Windows",
-                                         "MaximumSize":  null,
-                                         "Credential":  "System.Management.Automation.PSCredential",
-                                         "DisplayRoot":  null
-                                     },
-                         "PSProvider":  {
-                                            "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
-                                            "HelpFile":  "System.Management.Automation.dll-Help.xml",
-                                            "Name":  "FileSystem",
-                                            "PSSnapIn":  "Microsoft.PowerShell.Core",
-                                            "ModuleName":  "Microsoft.PowerShell.Core",
-                                            "Module":  null,
-                                            "Description":  "",
-                                            "Capabilities":  52,
-                                            "Home":  "C:\\Users\\johan",
-                                            "Drives":  "C Z"
-                                        },
-                         "ReadCount":  1
-                     },
-    "publishedAt":  "2026-10-02T14:05:54.8965306Z",
-    "releaseUrl":  "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.8.2",
-    "installerDownloadUrl":  null
+  "version": "0.8.2",
+  "releaseNotes": "## Fixes\n- In-app updates no longer fail typecheck because of a preserved previous build under `data/update-safety`\n\n## Weekly print\n- Weekly overview prints on a single A4 landscape page at 100% scale\n- Notes, Meals, and Allergies stay on the sheet (empty cells still appear)\n- Conference row prints only when there is a meeting that week\n- Occupied-only room visibility is unchanged; print height comes from the rooms that actually print\n- Family cells show the names assigned to that room, not the whole party\n- Meeting cells no longer show “All day”\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.8.2",
+  "installerDownloadUrl": null,
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.8.2/GuestBooking-source-0.8.2.zip",
+  "publishedAt": "2026-10-02T14:06:24.352Z"
 }
