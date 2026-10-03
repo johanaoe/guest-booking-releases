@@ -1,8 +1,8 @@
 {
-  "version": "0.8.2",
-  "releaseNotes": "## Fixes\n- In-app updates no longer fail typecheck because of a preserved previous build under `data/update-safety`\n\n## Weekly print\n- Weekly overview prints on a single A4 landscape page at 100% scale\n- Notes, Meals, and Allergies stay on the sheet (empty cells still appear)\n- Conference row prints only when there is a meeting that week\n- Occupied-only room visibility is unchanged; print height comes from the rooms that actually print\n- Family cells show the names assigned to that room, not the whole party\n- Meeting cells no longer show “All day”\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.8.2",
+  "version": "0.8.3",
+  "releaseNotes": "## Guest Inbox\n- Opening a thread uses the same booking form as New booking, stacked beside the email\n- Import details fills the form for review and does not save until you choose Save inquiry or Save booking\n- A linked booking or inquiry is shown at the top, and saving edits that record instead of creating another\n- A small Replied mark appears when the conversation has an outgoing reply, including replies sent from another mail client on the same account\n- Needs reply stays separate and still shows when a newer guest message arrives\n- Labels are quieter: Availability, Form received, Booking number or Inquiry, and Guest linked\n- Stage and quick replies sit in a compact strip, and the reply box stays closed until you choose Reply\n- The thread reads more like an email: sender and time on each message, outgoing mail lightly marked, and quoted history can be shown when needed\n\n## Settings\n- Settings are grouped into clearer sections, including a system overview\n- Backup history is easier to review\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.8.3",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.8.2/GuestBooking-source-0.8.2.zip",
-  "publishedAt": "2026-10-02T14:06:24.352Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.8.3/GuestBooking-source-0.8.3.zip",
+  "publishedAt": "2026-10-03T04:12:55.138Z"
 }
