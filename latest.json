@@ -1,8 +1,8 @@
 {
-  "version": "0.8.4",
-  "releaseNotes": "## Guest Inbox\r\n- Availability reply can include an editable booking-request form so guests fill it in and reply\r\n- Form uses the same labels Import details already reads\r\n- Empty form setting falls back to the built-in standard form\r\n\r\n## Settings\r\n- Reply snippets are visible again under Connections -> Email (no longer collapsed)\r\n- Edit availability reply, unavailable reply, and booking-request form in one place\r\n- Availability template supports `{bookingForm}`; if missing, the form is added when you use \"We have availability\"\r\n- Saving mail settings still does not send mail\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.8.4",
+  "version": "0.8.5",
+  "releaseNotes": "## Guest Inbox\n- After sending a reply, the composer closes and the sent message appears in the thread\n- A short Reply sent confirmation appears near the header, then disappears\n- Needs reply clears once the reply is in the thread\n- Stay on the thread after sending so Import details can still be saved as an inquiry or booking\n- Next needs reply opens the next unresolved Guest Inbox thread\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.8.5",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.8.4/GuestBooking-source-0.8.4.zip",
-  "publishedAt": "2026-10-03T12:21:00.934Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.8.5/GuestBooking-source-0.8.5.zip",
+  "publishedAt": "2026-10-03T12:49:44.494Z"
 }
