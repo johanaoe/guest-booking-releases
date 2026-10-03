@@ -1,8 +1,8 @@
 {
-  "version": "0.8.3",
-  "releaseNotes": "## Guest Inbox\n- Opening a thread uses the same booking form as New booking, stacked beside the email\n- Import details fills the form for review and does not save until you choose Save inquiry or Save booking\n- A linked booking or inquiry is shown at the top, and saving edits that record instead of creating another\n- A small Replied mark appears when the conversation has an outgoing reply, including replies sent from another mail client on the same account\n- Needs reply stays separate and still shows when a newer guest message arrives\n- Labels are quieter: Availability, Form received, Booking number or Inquiry, and Guest linked\n- Stage and quick replies sit in a compact strip, and the reply box stays closed until you choose Reply\n- The thread reads more like an email: sender and time on each message, outgoing mail lightly marked, and quoted history can be shown when needed\n\n## Settings\n- Settings are grouped into clearer sections, including a system overview\n- Backup history is easier to review\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.8.3",
+  "version": "0.8.4",
+  "releaseNotes": "﻿## Guest Inbox\r\n- Availability reply can include an editable booking-request form so guests fill it in and reply\r\n- Form uses the same labels Import details already reads\r\n- Empty form setting falls back to the built-in standard form\r\n\r\n## Settings\r\n- Reply snippets are visible again under Connections → Email (no longer collapsed)\r\n- Edit availability reply, unavailable reply, and booking-request form in one place\r\n- Availability template supports `{bookingForm}`; if missing, the form is added when you use “We have availability”\r\n- Saving mail settings still does not send mail\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.8.4",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.8.3/GuestBooking-source-0.8.3.zip",
-  "publishedAt": "2026-10-03T04:12:55.138Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.8.4/GuestBooking-source-0.8.4.zip",
+  "publishedAt": "2026-10-03T12:20:16.612Z"
 }
