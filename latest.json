@@ -1,8 +1,8 @@
 {
-  "version": "0.8.6",
-  "releaseNotes": "## Guest Inbox\n\n- Replies sent in Outlook show up in the same Guest Inbox thread and clear Needs reply when that reply is the newest message.\n- Replies sent in the Booking app are placed in Sent, and the original message is marked answered so Outlook can show it as replied.\n- Needs reply still follows the newest message. A later guest email needs a reply again.\n- A single sent reply no longer appears twice in the thread.\n- Add a signature to new emails and replies from Connections → Email. It is part of the draft, so you can edit it before sending.\n- Attach files to outgoing mail. Reusable files are managed under Connections → Email files.\n\nSent mail handling is under Connections → Email → Advanced. Auto avoids a second Sent copy when the mailbox already stored the message.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.8.6",
+  "version": "0.8.7",
+  "releaseNotes": "## Guest Inbox\n\n- The conversation now shows the newest message first, directly under Reply, so long threads do not start at the oldest email.\n- Older messages stay in the thread, with a quieter style and a short date label when the day changes.\n- Quoted history in a message stays collapsed behind “Show quoted text,” including Outlook “Original Message” blocks.\n- Needs reply and who you reply to still follow the newest message by time, not the order on the screen.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.8.7",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.8.6/GuestBooking-source-0.8.6.zip",
-  "publishedAt": "2026-10-04T05:23:54.012Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.8.7/GuestBooking-source-0.8.7.zip",
+  "publishedAt": "2026-10-04T07:38:07.707Z"
 }
