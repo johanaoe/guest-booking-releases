@@ -1,8 +1,8 @@
 {
-  "version": "0.9.1",
-  "releaseNotes": "## Guest Inbox\n\n- Select several messages in the list, then move or delete them together.\n- Drag a message onto a folder to move it. Related messages in that folder move with it. Sent mail stays in Sent.\n- Add folder shows the short name and the full path, and the list can be filtered.\n- Reply, Mark unread, Move to, and Delete sit on the right of the message, away from Back.\n- The unread number in the top bar counts Inbox only.\n\n## Schedule\n\n- Inquiry bars on the monthly calendar show a guest count.\n\n## Settings\n\n- General settings can change the order of the top menu. Save general settings to apply it.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.9.1",
+  "version": "0.9.2",
+  "releaseNotes": "## Guest Inbox\n\n- The folder list is a tree. Each row shows the folder’s own name, and the full path is in the tooltip.\n- Collapse a folder to tuck its subfolders away. That only changes this sidebar.\n- Add folder includes that folder and the folders inside it, including ones found later.\n- Hide from sidebar hides a folder and everything under it on this computer. The mail stays on the server. Add folder can show it again.\n- Move folder renames the folder on the mail server and keeps the messages inside it.\n- Move to Complete is available when a Complete folder already exists. It places the folder under Complete.\n- Inbox, Sent, and Trash stay at the top and cannot be hidden or moved this way.\n- Opening a message, and Next needs reply, stay quick when other folders contain a large amount of older mail.\n\n## Staff\n\n- A staff plan keeps status, staff type, interested months, the people on the plan, and notes.\n- Once a plan is confirmed, the people, stay dates, and room schedule belong to the linked booking. Saving the plan dates does not rewrite those rooms unless the rooms themselves are changed.\n- The yearly overview uses the people recorded on the plan.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.9.2",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.9.1/GuestBooking-source-0.9.1.zip",
-  "publishedAt": "2026-10-04T15:21:46.455Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.9.2/GuestBooking-source-0.9.2.zip",
+  "publishedAt": "2026-10-04T17:55:53.852Z"
 }
