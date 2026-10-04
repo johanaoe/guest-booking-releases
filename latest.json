@@ -1,8 +1,8 @@
 {
-  "version": "0.8.7",
-  "releaseNotes": "## Guest Inbox\n\n- The conversation now shows the newest message first, directly under Reply, so long threads do not start at the oldest email.\n- Older messages stay in the thread, with a quieter style and a short date label when the day changes.\n- Quoted history in a message stays collapsed behind “Show quoted text,” including Outlook “Original Message” blocks.\n- Needs reply and who you reply to still follow the newest message by time, not the order on the screen.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.8.7",
+  "version": "0.9.0",
+  "releaseNotes": "## Guest Inbox\n\n- Dismiss is removed. When an email is dealt with, move the conversation to another mailbox folder.\n- Mark read and Mark unread update the message in Outlook.\n- Delete moves the conversation to Trash. It does not erase it.\n- Move, Delete, and Mark read/unread can be undone for a few seconds.\n- Back to Guest Inbox sits on its own row, away from Reply.\n- The old Dismissed stage is now labeled Closed.\n\n## Schedule\n\n- View availability opens the Monthly calendar in a separate window, on the arrival month, and highlights the dates being checked.\n- The email or inquiry stays open, including unsaved details.\n- The same window is reused the next time you check dates.\n- Inquiry pages with dates have the same action.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.9.0",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.8.7/GuestBooking-source-0.8.7.zip",
-  "publishedAt": "2026-10-04T07:38:07.707Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.9.0/GuestBooking-source-0.9.0.zip",
+  "publishedAt": "2026-10-04T14:38:37.325Z"
 }
