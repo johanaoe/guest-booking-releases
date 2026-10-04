@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0",
-  "releaseNotes": "## Guest Inbox\n\n- Dismiss is removed. When an email is dealt with, move the conversation to another mailbox folder.\n- Mark read and Mark unread update the message in Outlook.\n- Delete moves the conversation to Trash. It does not erase it.\n- Move, Delete, and Mark read/unread can be undone for a few seconds.\n- Back to Guest Inbox sits on its own row, away from Reply.\n- The old Dismissed stage is now labeled Closed.\n\n## Schedule\n\n- View availability opens the Monthly calendar in a separate window, on the arrival month, and highlights the dates being checked.\n- The email or inquiry stays open, including unsaved details.\n- The same window is reused the next time you check dates.\n- Inquiry pages with dates have the same action.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.9.0",
+  "version": "0.9.1",
+  "releaseNotes": "## Guest Inbox\n\n- Select several messages in the list, then move or delete them together.\n- Drag a message onto a folder to move it. Related messages in that folder move with it. Sent mail stays in Sent.\n- Add folder shows the short name and the full path, and the list can be filtered.\n- Reply, Mark unread, Move to, and Delete sit on the right of the message, away from Back.\n- The unread number in the top bar counts Inbox only.\n\n## Schedule\n\n- Inquiry bars on the monthly calendar show a guest count.\n\n## Settings\n\n- General settings can change the order of the top menu. Save general settings to apply it.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.9.1",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.9.0/GuestBooking-source-0.9.0.zip",
-  "publishedAt": "2026-10-04T14:38:37.325Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.9.1/GuestBooking-source-0.9.1.zip",
+  "publishedAt": "2026-10-04T15:21:46.455Z"
 }
