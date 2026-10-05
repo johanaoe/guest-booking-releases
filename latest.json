@@ -1,8 +1,8 @@
 {
   "version": "0.9.4",
-  "releaseNotes": "﻿## Guest Inbox\n- Reply no longer defaults To yourself after you have already replied\n- Editable To field, per-message Reply, and Reply-To header support when present\n\n## Conferences\n- Count-only day guests (Adults / Kids) per meal, with multi-meal apply\n- Meal totals, overview, print, kitchen counts, and VoS include unnamed day guests\n- Named day guests unchanged\n\n## Staff & contacts\n- Staff plan people display and Person/Gender contact autofill improvements\n\n## Fixes\n- Client-safe household display name import (build)\r\n",
+  "releaseNotes": "## Guest Inbox\n- Reply no longer defaults To yourself after you have already replied\n- Editable To field, per-message Reply, and Reply-To header support when present\n\n## Conferences\n- Count-only day guests (Adults / Kids) per meal, with multi-meal apply\n- Meal totals, overview, print, kitchen counts, and VoS include unnamed day guests\n- Named day guests unchanged\n\n## Staff & contacts\n- Staff plan people display and Person/Gender contact autofill improvements\n\n## Fixes\n- Client-safe household display name import (build)\n",
   "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.9.4",
   "installerDownloadUrl": null,
   "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.9.4/GuestBooking-source-0.9.4.zip",
-  "publishedAt": "2026-10-05T18:29:39.440Z"
+  "publishedAt": "2026-10-05T18:30:05.176Z"
 }
