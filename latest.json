@@ -1,8 +1,8 @@
 {
-  "version": "0.9.4",
-  "releaseNotes": "## Guest Inbox\n- Reply no longer defaults To yourself after you have already replied\n- Editable To field, per-message Reply, and Reply-To header support when present\n\n## Conferences\n- Count-only day guests (Adults / Kids) per meal, with multi-meal apply\n- Meal totals, overview, print, kitchen counts, and VoS include unnamed day guests\n- Named day guests unchanged\n\n## Staff & contacts\n- Staff plan people display and Person/Gender contact autofill improvements\n\n## Fixes\n- Client-safe household display name import (build)\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.9.4",
+  "version": "0.9.5",
+  "releaseNotes": "﻿## Fixes\r\n- **Weekly overview** loads again after a crash caused by the time-format change on the mobile week view\r\n- Clock times across the app follow Settings > General **Time format** (24h / 12h), including conference lists, booking import preview, guest-list times, and backup schedule labels\r\n- Meal-plan coffee labels no longer say \"Coffee AM/PM\" (morning/afternoon coffee instead)\r\n\r\n## Notes\r\n- Native time pickers may still follow the operating system\r\n- Stored database times are unchanged\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.9.5",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.9.4/GuestBooking-source-0.9.4.zip",
-  "publishedAt": "2026-10-05T18:30:05.176Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.9.5/GuestBooking-source-0.9.5.zip",
+  "publishedAt": "2026-10-05T19:02:34.671Z"
 }
