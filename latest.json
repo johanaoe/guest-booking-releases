@@ -1,8 +1,8 @@
 {
-  "version": "0.9.3",
-  "releaseNotes": "## Guest Inbox\n- Sent folder loads about 50 messages at a time with Load more (newest first)\n- Sent rows show recipients (To:) instead of Unknown sender\n- Reply attachments show per-file and combined size, with a clear warning before send\n- Combined attachment limit includes standard files; oversized sets are blocked before SMTP\n- Failed attachment sends keep the reply draft open\n\n## Conferences\n- Link multiple Guest Inbox email conversations to one conference (organizer, catering, finance, etc.)\n- Create Conference or Conference inquiry from Guest Inbox, with optional role and Primary thread\n- Conference edit page shows compact Email conversations (open, role, primary, unlink)\n- Link an existing conversation from the conference page\n- Email links survive inquiry to confirmed\n\n## Contacts / households\n- Household directory and household member management improvements\n- Safer contact autofill / channel handling\n\n## Settings\n- App-wide time format preference (12h / 24h) on key schedule and inbox surfaces\n\n## Fixes\n- Client/server import boundaries so production build stays clean\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.9.3",
+  "version": "0.9.4",
+  "releaseNotes": "﻿## Guest Inbox\n- Reply no longer defaults To yourself after you have already replied\n- Editable To field, per-message Reply, and Reply-To header support when present\n\n## Conferences\n- Count-only day guests (Adults / Kids) per meal, with multi-meal apply\n- Meal totals, overview, print, kitchen counts, and VoS include unnamed day guests\n- Named day guests unchanged\n\n## Staff & contacts\n- Staff plan people display and Person/Gender contact autofill improvements\n\n## Fixes\n- Client-safe household display name import (build)\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.9.4",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.9.3/GuestBooking-source-0.9.3.zip",
-  "publishedAt": "2026-10-05T07:34:12.136Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.9.4/GuestBooking-source-0.9.4.zip",
+  "publishedAt": "2026-10-05T18:29:39.440Z"
 }
