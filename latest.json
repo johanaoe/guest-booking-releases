@@ -1,8 +1,8 @@
 {
   "version": "0.9.5",
-  "releaseNotes": "﻿## Fixes\r\n- **Weekly overview** loads again after a crash caused by the time-format change on the mobile week view\r\n- Clock times across the app follow Settings > General **Time format** (24h / 12h), including conference lists, booking import preview, guest-list times, and backup schedule labels\r\n- Meal-plan coffee labels no longer say \"Coffee AM/PM\" (morning/afternoon coffee instead)\r\n\r\n## Notes\r\n- Native time pickers may still follow the operating system\r\n- Stored database times are unchanged\r\n",
+  "releaseNotes": "## Fixes\n- **Weekly overview** loads again after a crash caused by the time-format change on the mobile week view\n- Clock times across the app follow Settings > General **Time format** (24h / 12h), including conference lists, booking import preview, guest-list times, and backup schedule labels\n- Meal-plan coffee labels no longer say \"Coffee AM/PM\" (morning/afternoon coffee instead)\n\n## Notes\n- Native time pickers may still follow the operating system\n- Stored database times are unchanged\n",
   "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.9.5",
   "installerDownloadUrl": null,
   "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.9.5/GuestBooking-source-0.9.5.zip",
-  "publishedAt": "2026-10-05T19:02:34.671Z"
+  "publishedAt": "2026-10-05T19:02:57.127Z"
 }
