@@ -1,8 +1,8 @@
 {
-  "version": "0.9.5",
-  "releaseNotes": "## Fixes\n- **Weekly overview** loads again after a crash caused by the time-format change on the mobile week view\n- Clock times across the app follow Settings > General **Time format** (24h / 12h), including conference lists, booking import preview, guest-list times, and backup schedule labels\n- Meal-plan coffee labels no longer say \"Coffee AM/PM\" (morning/afternoon coffee instead)\n\n## Notes\n- Native time pickers may still follow the operating system\n- Stored database times are unchanged\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.9.5",
+  "version": "0.10.0",
+  "releaseNotes": "## Conference families and groups\n- Group existing participants as a family, rename the group, change its members, or ungroup it.\n- Keep each person's room, travel details, meals, and historical booking records independent.\n- Apply selected travel details to selected family members.\n- Link a family to an existing household, or review and create a household from its participants.\n- See compact family counts and split-room details in Weekly.\n\n## Guest Inbox\n- Reading and replying now use Back to return to the previous inbox or folder view.\n- Removed the Next needs reply shortcut.\n\n## Monthly overview\n- Conference day-guest counts include unnamed adults and children, using the highest combined meal count each day instead of adding meals together.\n- Print a clean guest-room overview on one A4 landscape sheet, with the existing booking colours and a matching legend.\n- Staff rooms, meeting rooms, controls, and operational extras are left out of the printed overview.\n\n## Update reliability\n- Source downloads are packaged from the release tag, excluding local temporary files, secrets, databases, backups, and build artifacts.\n- Only an installer matching the release version can be attached.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.10.0",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.9.5/GuestBooking-source-0.9.5.zip",
-  "publishedAt": "2026-10-05T19:03:48.670Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.10.0/GuestBooking-source-0.10.0.zip",
+  "publishedAt": "2026-10-06T07:02:34.857Z"
 }
