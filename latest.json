@@ -1,8 +1,8 @@
 {
-  "version": "0.11.1",
-  "releaseNotes": "## Contacts\n- Added a People view with separate first and last names, and an expandable Families view.\n- Added clickable column sorting, remembered sort choices, search, current/upcoming/no-email filters, sticky headers and pagination.\n- Added family name and member editing, optional family labels, child ages and name-only contacts without required email addresses.\n- Included normal bookings and conference attendance in visit history, distinguishing overnight stays and day visits.\n- Improved individual profiles and family visit history while preserving original booking details.\n- Required a review before merging contacts and prevented new-contact saves from overwriting an existing contact.\n\n## Conference families\n- Fixed family saves that were blocked by hidden contact-move confirmations or unnecessary email requirements.\n- Reused the main member's existing family by default and made genuine move confirmations visible.\n- Used consistent Family wording and preserved explicitly chosen participant contact links during contact sync.\n\nExisting contact records and historical booking snapshots are preserved.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.11.1",
+  "version": "0.11.2",
+  "releaseNotes": "## Conference families\n- Simplified grouping: search for members, choose the main person, and edit the family in one screen.\n- Moved contact details into the editor, with editable first and last names and optional email.\n- Reuse existing contact and family links automatically, with an optional Change family action.\n- Save directly when details match. Review only different room or travel details and moves between families.\n- Show a live summary of shared travel from the main family member.\n- Preserve selected rooms when grouping families across multiple rooms.\n\nIndividual travel exceptions, meal selections, late registrations and historical booking details are preserved.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.11.2",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.11.1/GuestBooking-source-0.11.1.zip",
-  "publishedAt": "2026-10-06T17:38:05.030Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.11.2/GuestBooking-source-0.11.2.zip",
+  "publishedAt": "2026-10-06T18:16:27.418Z"
 }
