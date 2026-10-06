@@ -1,8 +1,8 @@
 {
-  "version": "0.10.1",
-  "releaseNotes": "## Conferences\n- Simplified family editing and participant room cards, with clearer shared travel and member review.\n- Couples use both names; larger families use the family surname, matching normal bookings.\n- Corrected family entries in Weekly and Monthly, room assignments, travel exceptions and adult/child counts.\n- Overview shows compact room lists, in-house guests and peak daily day guests, including unnamed guests.\n- Email conversations stay on Overview, with a link from Edit event.\n- Meals by day uses a compact layout with expandable bulk day-guest tools.\n\n## Meals\n- Meal planner and printed plans show meal times, using conference overrides where set.\n\n## Data\n- Preserves existing conference membership, individual meals, Contacts links and historical booking snapshots.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.10.1",
+  "version": "0.11.0",
+  "releaseNotes": "# Guest Inbox\n- Format new emails and replies with bold, italic, underline, lists, links and text colours.\n- Restore formatted drafts and retain formatting in sent messages, with HTML and plain-text email versions.\n- Read guest emails safely, display embedded images and load remote images when you choose.\n- Keep quoted history separate and protect against duplicate sends.\n\n# Booking imports\n- Choose Booking or Inquiry at the top of email and pasted-text imports.\n- Open imported details without creating a booking until Save is pressed.\n- Prevent repeated clicks and retries from creating duplicate bookings.\n\nDrafts are saved in the current browser. Reattach uploaded files after reopening a draft.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.11.0",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.10.1/GuestBooking-source-0.10.1.zip",
-  "publishedAt": "2026-10-06T13:10:22.071Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.11.0/GuestBooking-source-0.11.0.zip",
+  "publishedAt": "2026-10-06T15:58:34.573Z"
 }
