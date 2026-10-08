@@ -1,8 +1,8 @@
 {
-  "version": "0.12.1",
-  "releaseNotes": "## Conferences\n- Clear Confirm conference actions on the conference list and inquiry editor. Confirmation keeps the existing event and email links.\n\n## Monthly\n- Verify orange conference colours during event days and normal guest colours before and after, including families, individual guests and the printed room overview.\n- Conference inquiries remain grey until confirmed.\n\n## Included from 0.12.0\n- Create a conference or conference inquiry from Guest Inbox using the existing conference form.\n- Edit linked contacts directly from email.\n- Update indicator beside the admin profile opens the update screen.\n- Duplicate-save protection and atomic confirmation with room conflict checks.\n\n## Validation\nTypecheck, ESLint, focused regression tests, an isolated production build and desktop/mobile browser checks passed.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.12.1",
+  "version": "0.12.3",
+  "releaseNotes": "## Privacy protections\n- Replace personal importer examples and related contact fixtures with synthetic identities, reserved-domain emails and fictional phone numbers. Parsing behavior, travel formats and child ages are preserved.\n- Ignore temporary login/session files, database snapshots, local backups and email attachment storage.\n- Exclude attachment directories and temporary files from client source packages, including accidentally tracked files.\n- Add regression checks for synthetic examples, Git ignore rules and release-package privacy.\n- Preserve the application backup and meal-data settings pages when excluding runtime storage from source packages.\n\n## Validation\nImport, family/contact, settings and packaging regressions, typecheck, ESLint and an isolated production build passed.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.12.3",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.12.1/GuestBooking-source-0.12.1.zip",
-  "publishedAt": "2026-10-08T15:54:43.207Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.12.3/GuestBooking-source-0.12.3.zip",
+  "publishedAt": "2026-10-08T16:56:46.028Z"
 }
