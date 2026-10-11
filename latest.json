@@ -1,8 +1,8 @@
 {
-  "version": "0.12.3",
-  "releaseNotes": "## Privacy protections\n- Replace personal importer examples and related contact fixtures with synthetic identities, reserved-domain emails and fictional phone numbers. Parsing behavior, travel formats and child ages are preserved.\n- Ignore temporary login/session files, database snapshots, local backups and email attachment storage.\n- Exclude attachment directories and temporary files from client source packages, including accidentally tracked files.\n- Add regression checks for synthetic examples, Git ignore rules and release-package privacy.\n- Preserve the application backup and meal-data settings pages when excluding runtime storage from source packages.\n\n## Validation\nImport, family/contact, settings and packaging regressions, typecheck, ESLint and an isolated production build passed.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.12.3",
+  "version": "0.12.4",
+  "releaseNotes": "## Guest Inbox\n- Create folders and subfolders on the mail server from Guest Inbox.\n- Delete custom folders with confirmation while preserving their subfolders and protecting system folders.\n- Larger folder expand/collapse controls respond immediately, including for the folder currently open. Rapid clicks save the final choice correctly.\n- Refresh missing folder metadata so newly created subfolders appear in the correct hierarchy.\n- Move quick-reply options below the message editor. Selecting a quick reply replaces the standard signature while preserving your typed message and formatting.\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.12.4",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.12.3/GuestBooking-source-0.12.3.zip",
-  "publishedAt": "2026-10-08T16:56:46.028Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.12.4/GuestBooking-source-0.12.4.zip",
+  "publishedAt": "2026-10-11T04:20:03.763Z"
 }
