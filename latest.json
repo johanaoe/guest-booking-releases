@@ -1,8 +1,8 @@
 {
-  "version": "0.13.3",
-  "releaseNotes": "## Inquiries and Monthly\n- Save guest inquiries without assigning a room, including when the house is fully booked.\n- Show roomless inquiries in a Monthly waiting-list row with grey dashed bars, daily counts, collapse/expand and additional overlapping inquiries.\n- Open an inquiry directly from its waiting-list bar. Assign a room before confirming; existing availability checks still apply.\n- Waiting inquiries do not reserve rooms or affect occupancy and meal totals.\n\n## Guest Inbox\n- Display saved emails immediately while mailbox synchronization and folder discovery run in the background.\n- Keep cached folder information visible during refresh and show a clear retry message if the mail server is unavailable.\n- Add loading feedback and improve the inbox layout on mobile.\n\n## Validation\n- Focused inquiry, confirmation, folder-cache, threading and reply-status regression tests.\n- Desktop/mobile browser checks using isolated databases and synthetic mail, plus typecheck, ESLint and a production build.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.3",
+  "version": "0.13.4",
+  "releaseNotes": "# Occupancy statistics\n\n- Add an Exclude from occupancy statistics checkbox under Settings → Rooms.\n- Excluded rooms affect only the occupancy percentage, removing their beds and attributed stays from that calculation.\n- Total guest nights, guest counts, booked nights, meals and other statistics remain unchanged. Existing rooms remain included until you change the setting.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.4",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.3/GuestBooking-source-0.13.3.zip",
-  "publishedAt": "2026-10-15T12:39:19.429Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.4/GuestBooking-source-0.13.4.zip",
+  "publishedAt": "2026-10-15T13:41:45.401Z"
 }
