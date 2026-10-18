@@ -1,8 +1,8 @@
 {
-  "version": "0.13.4",
-  "releaseNotes": "# Occupancy statistics\n\n- Add an Exclude from occupancy statistics checkbox under Settings → Rooms.\n- Excluded rooms affect only the occupancy percentage, removing their beds and attributed stays from that calculation.\n- Total guest nights, guest counts, booked nights, meals and other statistics remain unchanged. Existing rooms remain included until you change the setting.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.4",
+  "version": "0.13.5",
+  "releaseNotes": "# Calendar clarity\n\n- Distinguish reserved conference rooms from unconfirmed inquiries with clearer labels, colours and solid/dashed borders.\n- Show whether a room is blocked in calendar details, including a touch preview on mobile.\n- Clarify daily waiting-list summaries as inquiries waiting.\n\n# Guest rooms\n\n- Use the guests assigned to each room for normal booking colours in Monthly and Weekly.\n- Show only the assigned guest name for a person staying alone in a room, instead of repeating both names from a shared booking.\n- Show personal allergy notes only in the relevant room in Monthly details.\n- Preserve shared bookings, guest information and historical snapshots.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.5",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.4/GuestBooking-source-0.13.4.zip",
-  "publishedAt": "2026-10-15T13:41:45.401Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.5/GuestBooking-source-0.13.5.zip",
+  "publishedAt": "2026-10-18T12:04:30.850Z"
 }
