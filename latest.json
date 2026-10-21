@@ -1,8 +1,8 @@
 {
-  "version": "0.13.5",
-  "releaseNotes": "# Calendar clarity\n\n- Distinguish reserved conference rooms from unconfirmed inquiries with clearer labels, colours and solid/dashed borders.\n- Show whether a room is blocked in calendar details, including a touch preview on mobile.\n- Clarify daily waiting-list summaries as inquiries waiting.\n\n# Guest rooms\n\n- Use the guests assigned to each room for normal booking colours in Monthly and Weekly.\n- Show only the assigned guest name for a person staying alone in a room, instead of repeating both names from a shared booking.\n- Show personal allergy notes only in the relevant room in Monthly details.\n- Preserve shared bookings, guest information and historical snapshots.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.5",
+  "version": "0.13.6",
+  "releaseNotes": "﻿## Guest Inbox\n- Confirm a linked inquiry as a booking from the email thread (or assign a room first when needed)\n- When a contact has multiple upcoming stays, choose which inquiry/booking to link — past stays are not auto-linked\n- Save a sender as a contact without creating a booking; Saved contact / New email labels on threads\n- Clearer inbox stages and labels (including Form sent); Back to Inbox navigation\n- Booking form quick reply (renamed from availability); Conference files next to Standard files in mail settings\n\n## Bookings & calendar\n- Weekly room labels no longer repeat couple names\n\n## Reports & statistics\n- Occupancy and report accuracy improvements\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.6",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.5/GuestBooking-source-0.13.5.zip",
-  "publishedAt": "2026-10-18T12:04:30.850Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.6/GuestBooking-source-0.13.6.zip",
+  "publishedAt": "2026-10-21T14:02:12.429Z"
 }
