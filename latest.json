@@ -1,8 +1,8 @@
 {
-  "version": "0.13.6",
-  "releaseNotes": "﻿## Guest Inbox\n- Confirm a linked inquiry as a booking from the email thread (or assign a room first when needed)\n- When a contact has multiple upcoming stays, choose which inquiry/booking to link — past stays are not auto-linked\n- Save a sender as a contact without creating a booking; Saved contact / New email labels on threads\n- Clearer inbox stages and labels (including Form sent); Back to Inbox navigation\n- Booking form quick reply (renamed from availability); Conference files next to Standard files in mail settings\n\n## Bookings & calendar\n- Weekly room labels no longer repeat couple names\n\n## Reports & statistics\n- Occupancy and report accuracy improvements\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.6",
+  "version": "0.13.7",
+  "releaseNotes": "﻿## Bookings\n- Conference rooms reserved with no guest assigned stay on the calendar as hold (including programme days)\n- Monthly hold styling for those reserved empty rooms\n\n## Value of Service\n- Split conference statements by family, people, or date range, with coverage totals\n- Whole families named once on the document (not every member)\n- Additional day guests include unnamed meal-plan day guests as one amount\n\n## Guest Inbox\n- Compose and reply To fields search the contact list by name or email\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.7",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.6/GuestBooking-source-0.13.6.zip",
-  "publishedAt": "2026-10-21T14:02:12.429Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.7/GuestBooking-source-0.13.7.zip",
+  "publishedAt": "2026-10-22T15:27:36.607Z"
 }
