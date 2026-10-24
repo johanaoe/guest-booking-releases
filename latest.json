@@ -1,8 +1,8 @@
 {
-  "version": "0.13.8",
-  "releaseNotes": "﻿## Guest Inbox\n- Save contact and booking identity follow the opened message’s sender in multi-person threads (recommender vs guest)\n- Show To, Cc, and Bcc on messages; Reply and Reply all like a normal mail client\n- Stop Cc’d / earlier thread contacts from being treated as the booker and blocking a new booking\n\n## Calendar & meals\n- Hold bookings use a light orange fill with an orange border\n- Monthly conference row sits above guest rooms\n- Conference meal counts follow guest flight/time rules (including breakfast after late arrival)\n\n## Value of Service\n- Modular statement sections with editable labels\n- Family names on covers; clearer Additional day guests (unnamed meal extras)\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.8",
+  "version": "0.13.9",
+  "releaseNotes": "﻿## Guest Inbox\n- Fix “already linked” when saving a booking from a multi-person thread (Cc recommenders no longer block the recommended guest)\n- Mark conversations unread from the inbox list (blue unread indicator)\n- New roomless inquiries no longer default “Waiting for availability” on\n\n## Bookings / Rooms\n- Room selection re-checks occupancy after you change arrival or departure dates (stale “occupied” warnings cleared when the room is free)\n- Room availability and conflict checks include conference guest stays that run longer (or start earlier) than the conference dates\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.9",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.8/GuestBooking-source-0.13.8.zip",
-  "publishedAt": "2026-10-23T16:06:43.933Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.9/GuestBooking-source-0.13.9.zip",
+  "publishedAt": "2026-10-24T05:45:42.856Z"
 }
