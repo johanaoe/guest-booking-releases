@@ -1,8 +1,8 @@
 {
-  "version": "0.13.10",
-  "releaseNotes": "## Guest Inbox\n- Create your own reply snippets: choose the button title and the message. There are no built-in snippets, and a deleted snippet stays deleted.\n\n## Contacts\n- Add, rename, and remove family members in one list on the family page and on each contact.\n- The last adult can leave a family. Name-only members stay, and past bookings keep the saved name.\n- Select several people and delete them together. Deleted contacts can be restored for 30 days.\n\n## Weekly\n- Cancelled conferences no longer show on the weekly meeting-room rows.\n\n## Bookings\n- A room can hold more overnight guests than it has beds when the extra people are children. Mark them as Child; a pack-and-play or mattress does not take a bed.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.10",
+  "version": "0.13.11",
+  "releaseNotes": "## Weekly\n- A saved booking change shows on the weekly page. Allergies, personal notes, the guest name, and room nights follow the save.\n- Clearing an allergy or a matching personal note removes it from this week and later stays. A stay that has already ended keeps its old note.\n- Print B&W uses black text and solid borders. CLEAN is a black box. Lines that only say “No allergies” or “None” are left off the allergy row.\n\n## Bookings\n- Clearing someone’s room is saved. An empty room choice no longer keeps the previous room.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.11",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.10/GuestBooking-source-0.13.10.zip",
-  "publishedAt": "2026-10-24T14:37:30.032Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.11/GuestBooking-source-0.13.11.zip",
+  "publishedAt": "2026-10-24T16:20:43.376Z"
 }
