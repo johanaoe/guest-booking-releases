@@ -1,8 +1,8 @@
 {
-  "version": "0.13.9",
-  "releaseNotes": "﻿## Guest Inbox\n- Fix “already linked” when saving a booking from a multi-person thread (Cc recommenders no longer block the recommended guest)\n- Mark conversations unread from the inbox list (blue unread indicator)\n- New roomless inquiries no longer default “Waiting for availability” on\n\n## Bookings / Rooms\n- Room selection re-checks occupancy after you change arrival or departure dates (stale “occupied” warnings cleared when the room is free)\n- Room availability and conflict checks include conference guest stays that run longer (or start earlier) than the conference dates\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.9",
+  "version": "0.13.10",
+  "releaseNotes": "## Guest Inbox\n- Create your own reply snippets: choose the button title and the message. There are no built-in snippets, and a deleted snippet stays deleted.\n\n## Contacts\n- Add, rename, and remove family members in one list on the family page and on each contact.\n- The last adult can leave a family. Name-only members stay, and past bookings keep the saved name.\n- Select several people and delete them together. Deleted contacts can be restored for 30 days.\n\n## Weekly\n- Cancelled conferences no longer show on the weekly meeting-room rows.\n\n## Bookings\n- A room can hold more overnight guests than it has beds when the extra people are children. Mark them as Child; a pack-and-play or mattress does not take a bed.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.10",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.9/GuestBooking-source-0.13.9.zip",
-  "publishedAt": "2026-10-24T05:45:42.856Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.10/GuestBooking-source-0.13.10.zip",
+  "publishedAt": "2026-10-24T14:37:30.032Z"
 }
