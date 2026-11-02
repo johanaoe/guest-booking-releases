@@ -1,8 +1,8 @@
 {
-  "version": "0.13.11",
-  "releaseNotes": "## Weekly\n- A saved booking change shows on the weekly page. Allergies, personal notes, the guest name, and room nights follow the save.\n- Clearing an allergy or a matching personal note removes it from this week and later stays. A stay that has already ended keeps its old note.\n- Print B&W uses black text and solid borders. CLEAN is a black box. Lines that only say “No allergies” or “None” are left off the allergy row.\n\n## Bookings\n- Clearing someone’s room is saved. An empty room choice no longer keeps the previous room.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.11",
+  "version": "0.13.12",
+  "releaseNotes": "﻿## Contacts\n- Find and merge duplicate families from Possible duplicates, or select families in the Families directory view\n- Same-named name-only members are kept once; adult contacts stay separate\n\n## Guest inbox\n- For a new sender address, add it as a second email on an existing contact instead of creating a new contact\n\n## Staff\n- Clearer on-screen errors when a confirmed staff room is already occupied or over capacity\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.12",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.11/GuestBooking-source-0.13.11.zip",
-  "publishedAt": "2026-10-24T16:20:43.376Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.12/GuestBooking-source-0.13.12.zip",
+  "publishedAt": "2026-11-02T10:14:56.587Z"
 }
