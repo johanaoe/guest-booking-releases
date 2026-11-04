@@ -1,8 +1,8 @@
 {
-  "version": "0.13.13",
-  "releaseNotes": "﻿## Home Assistant\n- Local LAN arrivals API (timestamps only, no guest names) for Home Assistant REST sensors\n- Settings → Connections → Home Assistant: generate, rotate, or revoke the API token\n- Docs: docs/homeassistant.md (REST sensor + sunset/sunrise light automation examples)\n\n## Monthly calendar\n- Inquiries can be dragged between days and rooms (including from the waiting list onto a room)\n- Inquiries may overlap occupied rooms without blocking the move\n\n## Conferences / participants\n- Room-capacity errors now show a clear message (room, beds, occupants) instead of a silent URL\n- Unassigned conference overnight guests no longer consume beds until assigned a sleeping room\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.13",
+  "version": "0.13.14",
+  "releaseNotes": "﻿## Fixes\n- Home Assistant arrivals API no longer redirects to login; bearer token auth works from LAN clients (curl / HA Docker)\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.14",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.13/GuestBooking-source-0.13.13.zip",
-  "publishedAt": "2026-11-04T10:58:22.791Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.14/GuestBooking-source-0.13.14.zip",
+  "publishedAt": "2026-11-04T11:19:15.674Z"
 }
