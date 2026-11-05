@@ -1,8 +1,8 @@
 {
-  "version": "0.13.14",
-  "releaseNotes": "﻿## Fixes\n- Home Assistant arrivals API no longer redirects to login; bearer token auth works from LAN clients (curl / HA Docker)\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.14",
+  "version": "0.13.15",
+  "releaseNotes": "﻿## Contacts\n- Side-by-side contact and family merge with field choices, member placement, impact summary, and confirm step\n- Possible duplicates show richer identity details; dismiss false positives; chain merges for 3+ records\n- Undo contact and family merges for 30 minutes\n- Non-admins can compare duplicates; only admins confirm merges\n\n## Guest inbox\n- Add a new sender address as a second email on an existing contact\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.15",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.14/GuestBooking-source-0.13.14.zip",
-  "publishedAt": "2026-11-04T11:19:15.674Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.15/GuestBooking-source-0.13.15.zip",
+  "publishedAt": "2026-11-05T08:16:17.840Z"
 }
