@@ -1,8 +1,8 @@
 {
-  "version": "0.13.17",
-  "releaseNotes": "## Home Assistant\n\n- Today's arrivals and departures now include the same guest name as the calendar, the room, and the time. Arrivals also include how many nights.\n- Today's schedule notes are included. A note that has a time includes that time.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.17",
+  "version": "0.13.18",
+  "releaseNotes": "## Guest Inbox\n- Faster, clearer drag-and-drop into folders: immediate Moving feedback, dimmed rows, and no extra folder list round-trip before the move\n- Optional Recommended by when saving a contact from an email\n\n## Value of Service\n- Printed guest accommodation lines use nights instead of person-nights\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.18",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.17/GuestBooking-source-0.13.17.zip",
-  "publishedAt": "2026-11-09T09:14:44.346Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.18/GuestBooking-source-0.13.18.zip",
+  "publishedAt": "2026-11-09T11:19:46.716Z"
 }
