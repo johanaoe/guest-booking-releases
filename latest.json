@@ -1,8 +1,8 @@
 {
-  "version": "0.13.18",
-  "releaseNotes": "## Guest Inbox\n- Faster, clearer drag-and-drop into folders: immediate Moving feedback, dimmed rows, and no extra folder list round-trip before the move\n- Optional Recommended by when saving a contact from an email\n\n## Value of Service\n- Printed guest accommodation lines use nights instead of person-nights\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.18",
+  "version": "0.13.19",
+  "releaseNotes": "## Home Assistant\n\nThe bookshelf feed now includes the next two weeks, not only today. Each day lists who is arriving and who is departing, with the same guest name, room, and time as today. Days with nobody arriving or leaving are left out.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.19",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.18/GuestBooking-source-0.13.18.zip",
-  "publishedAt": "2026-11-09T11:19:46.716Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.19/GuestBooking-source-0.13.19.zip",
+  "publishedAt": "2026-11-12T07:06:26.458Z"
 }
