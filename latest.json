@@ -1,8 +1,8 @@
 {
-  "version": "0.13.19",
-  "releaseNotes": "## Home Assistant\n\nThe bookshelf feed now includes the next two weeks, not only today. Each day lists who is arriving and who is departing, with the same guest name, room, and time as today. Days with nobody arriving or leaving are left out.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.19",
+  "version": "0.13.20",
+  "releaseNotes": "## Reports\n- Suggested contributions % is calculated automatically: (Guest contributions + Guest income) ÷ estimated suggested donations\n- Import income, expenditure, and cash-at-month-end from QuickBooks Desktop via Web Connector, with a confirm dialog before numbers enter the report\n- Intercompany and Admin Grant use the prior month; Settings → QuickBooks for bridge token, .qwc download, and account mapping\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.20",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.19/GuestBooking-source-0.13.19.zip",
-  "publishedAt": "2026-11-12T07:06:26.458Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.20/GuestBooking-source-0.13.20.zip",
+  "publishedAt": "2026-11-13T04:04:46.563Z"
 }
