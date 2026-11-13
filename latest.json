@@ -1,8 +1,8 @@
 {
-  "version": "0.13.25",
-  "releaseNotes": "﻿## Value of service\n- Choose adults/children breakdown or a single total on the document (print/PDF/email follow the choice)\n\n## QuickBooks\n- Fix Web Connector report import error (\"try enumerated value\") by using the correct Profit & Loss / Balance Sheet report types\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.25",
+  "version": "0.13.26",
+  "releaseNotes": "﻿## Value of service\n- Email guest sends through the configured mail account (with PDF attached) instead of opening Outlook or a mailto link\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.26",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.25/GuestBooking-source-0.13.25.zip",
-  "publishedAt": "2026-11-13T12:23:49.187Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.26/GuestBooking-source-0.13.26.zip",
+  "publishedAt": "2026-11-13T12:34:38.230Z"
 }
