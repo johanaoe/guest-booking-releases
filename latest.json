@@ -1,8 +1,8 @@
 {
-  "version": "0.13.21",
-  "releaseNotes": "﻿## QuickBooks\n- Easier account → report line mapping (unmapped-first list, inline Map, filter, grouped lines)\n- Web Connector .qwc uses the browser URL (avoids 0.0.0.0) and requests read/write so FileID can register\n\n## Fixes\n- Bridge download and connector registration for HTTPS via LAN reverse proxy\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.21",
+  "version": "0.13.22",
+  "releaseNotes": "﻿## Reports\n- Clearer QuickBooks import status: progress panel, steps, cancel, ready/error banners\n\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.22",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.21/GuestBooking-source-0.13.21.zip",
-  "publishedAt": "2026-11-13T11:42:13.911Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.22/GuestBooking-source-0.13.22.zip",
+  "publishedAt": "2026-11-13T11:51:26.479Z"
 }
