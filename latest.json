@@ -1,8 +1,8 @@
 {
-  "version": "0.13.24",
-  "releaseNotes": "﻿## QuickBooks\n- Parse Desktop report rows correctly (RowData account names) so import amounts and mapping lists populate\n- Web Connector .qwc polls every 1 minute; clearer Auto-Run / Update Selected guidance on Reports and Settings\n\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.24",
+  "version": "0.13.25",
+  "releaseNotes": "﻿## Value of service\n- Choose adults/children breakdown or a single total on the document (print/PDF/email follow the choice)\n\n## QuickBooks\n- Fix Web Connector report import error (\"try enumerated value\") by using the correct Profit & Loss / Balance Sheet report types\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.25",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.24/GuestBooking-source-0.13.24.zip",
-  "publishedAt": "2026-11-13T12:09:44.874Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.25/GuestBooking-source-0.13.25.zip",
+  "publishedAt": "2026-11-13T12:23:49.187Z"
 }
