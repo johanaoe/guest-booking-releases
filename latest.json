@@ -1,8 +1,8 @@
 {
-  "version": "0.13.22",
-  "releaseNotes": "﻿## Reports\n- Clearer QuickBooks import status: progress panel, steps, cancel, ready/error banners\n\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.22",
+  "version": "0.13.23",
+  "releaseNotes": "﻿## QuickBooks\n- Allow Web Connector to reach /api/qbwc without a browser login redirect (bridge token auth still required)\n\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.23",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.22/GuestBooking-source-0.13.22.zip",
-  "publishedAt": "2026-11-13T11:51:26.479Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.23/GuestBooking-source-0.13.23.zip",
+  "publishedAt": "2026-11-13T11:55:43.103Z"
 }
