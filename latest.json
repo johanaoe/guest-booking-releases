@@ -1,8 +1,8 @@
 {
-  "version": "0.13.20",
-  "releaseNotes": "## Reports\n- Suggested contributions % is calculated automatically: (Guest contributions + Guest income) ÷ estimated suggested donations\n- Import income, expenditure, and cash-at-month-end from QuickBooks Desktop via Web Connector, with a confirm dialog before numbers enter the report\n- Intercompany and Admin Grant use the prior month; Settings → QuickBooks for bridge token, .qwc download, and account mapping\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.20",
+  "version": "0.13.21",
+  "releaseNotes": "﻿## QuickBooks\n- Easier account → report line mapping (unmapped-first list, inline Map, filter, grouped lines)\n- Web Connector .qwc uses the browser URL (avoids 0.0.0.0) and requests read/write so FileID can register\n\n## Fixes\n- Bridge download and connector registration for HTTPS via LAN reverse proxy\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.21",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.20/GuestBooking-source-0.13.20.zip",
-  "publishedAt": "2026-11-13T04:04:46.563Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.21/GuestBooking-source-0.13.21.zip",
+  "publishedAt": "2026-11-13T11:42:13.911Z"
 }
