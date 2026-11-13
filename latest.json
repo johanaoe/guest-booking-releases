@@ -1,8 +1,8 @@
 {
-  "version": "0.13.23",
-  "releaseNotes": "﻿## QuickBooks\n- Allow Web Connector to reach /api/qbwc without a browser login redirect (bridge token auth still required)\n\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.23",
+  "version": "0.13.24",
+  "releaseNotes": "﻿## QuickBooks\n- Parse Desktop report rows correctly (RowData account names) so import amounts and mapping lists populate\n- Web Connector .qwc polls every 1 minute; clearer Auto-Run / Update Selected guidance on Reports and Settings\n\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.24",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.23/GuestBooking-source-0.13.23.zip",
-  "publishedAt": "2026-11-13T11:55:43.103Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.24/GuestBooking-source-0.13.24.zip",
+  "publishedAt": "2026-11-13T12:09:44.874Z"
 }
