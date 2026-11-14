@@ -1,8 +1,0 @@
-{
-  "version": "0.13.27",
-  "releaseNotes": "﻿## Guest inbox\n- Forward emails to a contact or any address (original message and attachments included by default)\n\n## Weekly\n- On same-day turnovers, the leaving guest appears above the arriving guest\n- Conference guests keep party colors and get an outline in the settings conference color (visible in print too)\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.27",
-  "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.27/GuestBooking-source-0.13.27.zip",
-  "publishedAt": "2026-11-14T07:36:38.118Z"
-}
