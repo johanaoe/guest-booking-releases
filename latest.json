@@ -1,0 +1,8 @@
+{
+  "version": "0.13.28",
+  "releaseNotes": "﻿## Value of service\n- Design the guest VoS email under Settings → Services → Value of Service → Email\n- Shorter default body, with a `{signature}` placeholder for the Guest Inbox mail signature\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.28",
+  "installerDownloadUrl": null,
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.28/GuestBooking-source-0.13.28.zip",
+  "publishedAt": "2026-11-14T11:56:08.548Z"
+}
