@@ -1,8 +1,8 @@
 {
-  "version": "0.13.29",
-  "releaseNotes": "## Reports\n- Year-to-date figures stay calculated, and you can type over them on the monthly report\n- Income and expenditure YTD starts as last month plus this month. A typed YTD is what later months add onto. Auto restores the calculation\n- Statistics YTD starts from bookings. A typed YTD is the base for later months in the same year\n- Room occupancy keeps a typed YTD until a later month changes it\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.29",
+  "version": "0.13.30",
+  "releaseNotes": "## Reports\n- Suggested contributions now has a year-to-date percent, using the same calculation on year-to-date amounts. You can type over it\n- Room occupancy detail only lists months through the report month\n- The reserves cash line is now Intercompany account, and QuickBooks uses the prior month for it, same as the other intercompany figures\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.30",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.29/GuestBooking-source-0.13.29.zip",
-  "publishedAt": "2026-11-16T09:39:07.534Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.30/GuestBooking-source-0.13.30.zip",
+  "publishedAt": "2026-11-16T10:05:08.007Z"
 }
