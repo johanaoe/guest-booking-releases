@@ -1,8 +1,8 @@
 {
-  "version": "0.13.30",
-  "releaseNotes": "## Reports\n- Suggested contributions now has a year-to-date percent, using the same calculation on year-to-date amounts. You can type over it\n- Room occupancy detail only lists months through the report month\n- The reserves cash line is now Intercompany account, and QuickBooks uses the prior month for it, same as the other intercompany figures\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.30",
+  "version": "0.13.31",
+  "releaseNotes": "## Reports\n- Room occupancy detail can be edited for occupancy rate, expected contribution, occupied room nights, and available room nights\n- Occupancy cumulative shows the average occupancy rate from January through that month\n- Expected contribution cumulative shows the same average for expected contribution\n- A typed cumulative is kept, and later months average onward from it. Auto restores a cell\n- The report PDF includes both cumulative columns\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.31",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.30/GuestBooking-source-0.13.30.zip",
-  "publishedAt": "2026-11-16T10:05:08.007Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.31/GuestBooking-source-0.13.31.zip",
+  "publishedAt": "2026-11-16T12:06:06.842Z"
 }
