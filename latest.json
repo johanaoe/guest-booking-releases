@@ -1,8 +1,8 @@
 {
-  "version": "0.13.28",
-  "releaseNotes": "﻿## Value of service\n- Design the guest VoS email under Settings → Services → Value of Service → Email\n- Shorter default body, with a `{signature}` placeholder for the Guest Inbox mail signature\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.28",
+  "version": "0.13.29",
+  "releaseNotes": "## Reports\n- Year-to-date figures stay calculated, and you can type over them on the monthly report\n- Income and expenditure YTD starts as last month plus this month. A typed YTD is what later months add onto. Auto restores the calculation\n- Statistics YTD starts from bookings. A typed YTD is the base for later months in the same year\n- Room occupancy keeps a typed YTD until a later month changes it\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.29",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.28/GuestBooking-source-0.13.28.zip",
-  "publishedAt": "2026-11-14T11:56:08.548Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.29/GuestBooking-source-0.13.29.zip",
+  "publishedAt": "2026-11-16T09:39:07.534Z"
 }
