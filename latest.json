@@ -1,8 +1,0 @@
-{
-  "version": "0.13.33",
-  "releaseNotes": "## Calendar\n- New Calendar page for house events, separate from guest stays\n- Each event is a day note, so it also appears on Daily, Weekly, and Monthly\n- Categories have their own colors, with a color key on the month view\n- Events can repeat daily, weekly, monthly, or yearly until an end date\n- Changing or deleting a repeat asks whether to update this date, this and following dates, or all dates\n- Month changes use the same year and month buttons as the booking month page\n\n## Notes\n- Day notes can include a category and an optional end time\n\n## Access\n- Calendar is its own page permission\n- Roles that already had Daily, Weekly, or Monthly also get Calendar\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.33",
-  "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.33/GuestBooking-source-0.13.33.zip",
-  "publishedAt": "2026-11-17T11:16:18.140Z"
-}
