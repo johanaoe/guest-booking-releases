@@ -1,0 +1,8 @@
+{
+  "version": "0.13.34",
+  "releaseNotes": "﻿## Value of service\n- Create a blank VoS from the monthly view (New VoS) with all fields editable — title, guest, dates, nights, lines, email, and signature\n- Print, PDF, and email work without linking a booking\n\n## Reports\n- Match the period Go button style to the rest of the filters\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.34",
+  "installerDownloadUrl": null,
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.34/GuestBooking-source-0.13.34.zip",
+  "publishedAt": "2026-11-19T06:12:38.400Z"
+}
