@@ -1,8 +1,8 @@
 {
-  "version": "0.13.34",
-  "releaseNotes": "﻿## Value of service\n- Create a blank VoS from the monthly view (New VoS) with all fields editable — title, guest, dates, nights, lines, email, and signature\n- Print, PDF, and email work without linking a booking\n\n## Reports\n- Match the period Go button style to the rest of the filters\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.34",
+  "version": "0.13.35",
+  "releaseNotes": "## Value of Service\n\n- Review and edit the recipient, subject, and message before sending a Value of Service email.\n- Clearly show that the generated Value of Service PDF remains attached to the email.\n\n## Weekly schedule\n\n- Mark conference participants with a slim conference-colour side marker instead of a full border.\n- Keep each guest's normal room colour and apply the marker consistently in Weekly and printed schedules.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.35",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.34/GuestBooking-source-0.13.34.zip",
-  "publishedAt": "2026-11-19T06:12:38.400Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.35/GuestBooking-source-0.13.35.zip",
+  "publishedAt": "2026-11-23T08:35:11.372Z"
 }
