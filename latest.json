@@ -1,8 +1,8 @@
 {
   "version": "0.13.37",
-  "releaseNotes": "## Weekly schedule\n\n- Replace the orange conference guest stripe with a black CONF badge for clearer screen and printed schedules.\n- Keep the badge within the existing card rows and preserve booking colors.\n",
+  "releaseNotes": "## Weekly schedule\r\n\r\n- Replace the orange conference guest stripe with a black CONF badge for clearer screen and printed schedules.\r\n- Keep the badge within the existing card rows and preserve booking colors.\r\n",
   "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.37",
   "installerDownloadUrl": null,
   "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.37/GuestBooking-source-0.13.37.zip",
-  "publishedAt": "2026-11-23T14:35:20.279Z"
+  "publishedAt": "2026-11-23T14:36:04.066Z"
 }
