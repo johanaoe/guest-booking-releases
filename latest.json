@@ -1,8 +1,8 @@
 {
-  "version": "0.13.35",
-  "releaseNotes": "## Value of Service\n\n- Review and edit the recipient, subject, and message before sending a Value of Service email.\n- Clearly show that the generated Value of Service PDF remains attached to the email.\n\n## Weekly schedule\n\n- Mark conference participants with a slim conference-colour side marker instead of a full border.\n- Keep each guest's normal room colour and apply the marker consistently in Weekly and printed schedules.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.35",
+  "version": "0.13.36",
+  "releaseNotes": "## Weekly overview\n\n- Choose which sections appear in the Weekly view: guest rooms, conference and meeting rooms, staff rooms, notes, meals, and allergies.\n- Choose Weekly print sections independently from the on-screen view.\n- Select individual staff rooms for both the Weekly view and printout.\n- Set the printed Notes row height from 5–40 mm to leave space for handwritten notes.\n- Remember screen and print preferences separately for each user.\n\n## Printing\n\n- Print layout now recalculates room-row space from the sections and staff rooms included.\n- Print in colour or black and white from the same compact print dialog.\n- Restore recommended print defaults or copy the current on-screen section choices with one click.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.36",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.35/GuestBooking-source-0.13.35.zip",
-  "publishedAt": "2026-11-23T08:35:11.372Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.36/GuestBooking-source-0.13.36.zip",
+  "publishedAt": "2026-11-23T11:44:41.659Z"
 }
