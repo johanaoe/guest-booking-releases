@@ -1,8 +1,8 @@
 {
-  "version": "0.13.37",
-  "releaseNotes": "## Weekly schedule\r\n\r\n- Replace the orange conference guest stripe with a black CONF badge for clearer screen and printed schedules.\r\n- Keep the badge within the existing card rows and preserve booking colors.\r\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.37",
+  "version": "0.13.38",
+  "releaseNotes": "## Guest Inbox\n- Edit any of a contact's listed bookings or inquiries directly beside the email. Saving keeps the email open so you can edit the next stay.\n\n## Schedule and Notes\n- Monthly notes and calendar events appear as Schedule in monthly, weekly and daily planning.\n- New weekly Notes stay in the weekly view, keeping the calendar clear of everyday reminders. Existing notes remain shared.\n- Updated mobile weekly planning and print layout to show Schedule above Notes.\n\n## Fixes\n- Note editors reset cleanly when opened or switched to another date or note, while preserving drafts during list refreshes.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.38",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.37/GuestBooking-source-0.13.37.zip",
-  "publishedAt": "2026-11-23T14:36:04.066Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.38/GuestBooking-source-0.13.38.zip",
+  "publishedAt": "2026-11-24T10:41:45.070Z"
 }
