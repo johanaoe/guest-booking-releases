@@ -1,8 +1,8 @@
 {
-  "version": "0.13.38",
-  "releaseNotes": "## Guest Inbox\n- Edit any of a contact's listed bookings or inquiries directly beside the email. Saving keeps the email open so you can edit the next stay.\n\n## Schedule and Notes\n- Monthly notes and calendar events appear as Schedule in monthly, weekly and daily planning.\n- New weekly Notes stay in the weekly view, keeping the calendar clear of everyday reminders. Existing notes remain shared.\n- Updated mobile weekly planning and print layout to show Schedule above Notes.\n\n## Fixes\n- Note editors reset cleanly when opened or switched to another date or note, while preserving drafts during list refreshes.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.38",
+  "version": "0.13.39",
+  "releaseNotes": "## Navigation\n\n- The top menu now moves items that do not fit into a hamburger menu, keeping their configured order. Items return to the top bar when more space is available.\n\n## Guest Inbox\n\n- Added an AI summary button at the right end of the email action row. Summaries appear inline only when requested, with streaming, collapse, copy, regenerate and hide controls.\n- Thread summaries use local Ollama only, with cleaned chronological email text, bounded long-thread input, and clear offline or missing-model messages. Uses the existing Local AI URL and downloaded model settings; cloud models and remote endpoints are blocked.\n- Added renaming for custom mailbox folders while preserving messages, subfolders, sync progress and sidebar preferences.\n- Reply arrows now mark the specific incoming message that was answered, including replies synchronized from another mail app. Improved matching of multi-message reply headers and reference chains.\n- Removed the duplicate linked-stay entry and clarified editing or switching to another stay for the same contact.\n\n## Booking forms\n\n- Remarks and allergies now stay directly below travel details as the guest list grows. Inbox and mobile forms retain their existing section order.\n\n## Updates\n\n- Improved patch publishing, recovery after interrupted releases, credential fallback, and public download verification. Update manifests cannot replace a newer published version with an older one.\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.39",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.38/GuestBooking-source-0.13.38.zip",
-  "publishedAt": "2026-11-24T10:41:45.070Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.39/GuestBooking-source-0.13.39.zip",
+  "publishedAt": "2026-11-26T14:24:36.192Z"
 }
