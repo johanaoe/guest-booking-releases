@@ -1,8 +1,8 @@
 {
-  "version": "0.13.40",
-  "releaseNotes": "## Local AI connection\n\n- Fixed thread summaries rejecting Ollama servers on the local network. Local AI now accepts private LAN IP addresses and DNS names, such as http://192.168.1.50:11434 or http://ollama.home:11434.\n- Applied the same connection support to email summaries, smart parse and Test connection. An HTTP prefix is optional, and HTTPS endpoints are supported.\n- Added clearer connection errors and examples in Settings → Local AI. Addresses must be reachable from the computer running the booking app.\n- DNS names are checked against private-network addresses before connecting. Summary cloud-model checks remain in place, and redirects are not followed.\n",
-  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.40",
+  "version": "0.13.41",
+  "releaseNotes": "Local AI\n- Use smaller context for short emails while preserving room for longer threads.\n- Keep the local model available for 30 minutes after summaries and booking extraction.\n- Show clearer connection and processing progress and prevent duplicate summary requests.\n- Flag incomplete summaries and reject booking extraction that reaches its output limit.\n- Add local timing diagnostics without recording guest email content.\r\n",
+  "releaseUrl": "https://github.com/johanaoe/guest-booking-releases/releases/tag/v0.13.41",
   "installerDownloadUrl": null,
-  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.40/GuestBooking-source-0.13.40.zip",
-  "publishedAt": "2026-11-26T14:52:44.860Z"
+  "sourceDownloadUrl": "https://github.com/johanaoe/guest-booking-releases/releases/download/v0.13.41/GuestBooking-source-0.13.41.zip",
+  "publishedAt": "2026-11-27T08:15:28.480Z"
 }
